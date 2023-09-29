@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaConsumosFijos>
+    <ConsumoFijo>
+      <Id>1</Id>
+      <Monto>8000</Monto>
+      <Nombre>Aire Acondicionado</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-06T03:00:00Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <CantCuotas>10</CantCuotas>
+    </ConsumoFijo>
+    <ConsumoFijo>
+      <Id>2</Id>
+      <Monto>10000</Monto>
+      <Nombre>Heladera</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-06T03:00:00Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <CantCuotas>1</CantCuotas>
+    </ConsumoFijo>
+  </ListaConsumosFijos>
+  <ListaConsumosVolatiles>
+    <ConsumoVolatil>
+      <Id>1</Id>
+      <Monto>10500</Monto>
+      <Nombre>Seguro del auto</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-02T03:00:00Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>2</Id>
+      <Monto>6300</Monto>
+      <Nombre>Seguro de moto</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-05T03:00:00Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>3</Id>
+      <Monto>5250</Monto>
+      <Nombre>Cuota gym</Nombre>
+      <Categoria>Hobbies</Categoria>
+      <Fecha>2023-04-08T03:00:00Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+  </ListaConsumosVolatiles>
+  <ListaConsumosEsporadicos>
+    <Consumo>
+      <Id>1</Id>
+      <Monto>4987.5</Monto>
+      <Nombre>Verduleria</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-09T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>2</Id>
+      <Monto>5987.5</Monto>
+      <Nombre>Supermercado</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-17T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>3</Id>
+      <Monto>3987.5</Monto>
+      <Nombre>Verduleria</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-22T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>4</Id>
+      <Monto>2987.5</Monto>
+      <Nombre>Supermercado</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-04-24T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>5</Id>
+      <Monto>4987.5</Monto>
+      <Nombre>Combustible auto</Nombre>
+      <Categoria>Combustible</Categoria>
+      <Fecha>2023-04-04T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>6</Id>
+      <Monto>1662.5</Monto>
+      <Nombre>Combustible moto</Nombre>
+      <Categoria>Combustible</Categoria>
+      <Fecha>2023-04-14T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>7</Id>
+      <Monto>1462.5</Monto>
+      <Nombre>Combustible moto</Nombre>
+      <Categoria>Combustible</Categoria>
+      <Fecha>2023-04-30T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+    <Consumo>
+      <Id>8</Id>
+      <Monto>1662.5</Monto>
+      <Nombre>Asado con los pibes</Nombre>
+      <Categoria>Salidas</Categoria>
+      <Fecha>2023-04-25T03:00:00Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+    </Consumo>
+  </ListaConsumosEsporadicos>
+  <SueldoCobrado>170000</SueldoCobrado>
+  <InicioDeCiclo>5</InicioDeCiclo>
+  <FechaDeInicio>2023-05-05T03:00:00Z</FechaDeInicio>
+  <FinDeCliclo>2023-06-05T03:00:00Z</FinDeCliclo>
+  <AhorroPropuesto>20</AhorroPropuesto>
+  <ObjtivoCumplido>true</ObjtivoCumplido>
+</Mes>

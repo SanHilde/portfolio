@@ -1,0 +1,4 @@
+09:16:31 **** Incremental Build of configuration Debug for project Parcial 2 Laboratorio 1 ****
+Info: Internal Builder is used for build
+gcc -o "Parcial 2 Laboratorio 1.exe" "src\\Controller.o" "src\\Jugador.o" "src\\LinkedList.o" "src\\Parcial 2 Laboratorio 1.o" "src\\Seleccion.o" "src\\inputs.o" "src\\outputs.o" "src\\parser.o" 
+Info: Nothing to build for Parcial 2 Laboratorio 1

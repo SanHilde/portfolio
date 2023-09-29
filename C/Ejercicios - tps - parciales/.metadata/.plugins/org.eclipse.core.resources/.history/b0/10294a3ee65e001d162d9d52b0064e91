@@ -1,0 +1,60 @@
+/*
+ * FuncionesExtras.h
+ *
+ *  Created on: 2 nov. 2022
+ *      Author: santy
+ */
+
+#ifndef OUTPUTS_H_
+#define OUTPUTS_H_
+
+//#include <ctype.h>
+//#include <wchar.h>
+//#include <stdio.h>
+//#include <string.h>
+//#include <stdlib.h>
+//#include "LinkedList.h"
+//#include "Jugador.h"
+//#include "Seleccion.h"
+#include "Controller.h"
+
+/**
+ * \fn void impresionFila(int, int, char*)
+ * \brief imprime linas que divide el cuadro
+ *
+ * \param cantCaracteres: cantidad de caracteres que debe imprimir
+ * \param cantColumnas: cantidad de columnas que necesita el cuadro
+ * \param caracter: caracter a imprimir
+ */
+void output_impresionFila (int cantCaracteres, int cantColumnas, char caracter);
+
+/**
+ * \fn void respuesta(int)
+ * \brief imprime una respuesta segun el valor ingresado
+ *
+ * \param valor: valor a ingresar, el cual permite realizar determinada accion
+ * \return: si el pasaje de datos es correcto y la funcion trabajo correctamente, el retono es 1, si se cancelo la ejecucion de la funcion a proposito 0, si hubo un error, el retorno es -1
+ */
+int output_respuesta(int valor);
+
+/**
+ * \fn int correccionMayusculasCadena(char*)
+ * \brief corrige la cadena de caracteres ingresada y le pone mayuscula a cada palabra
+ *
+ * \param cadena: cadena de caracteres ingresada
+ * \return: si el pasaje de datos es correcto y la funcion trabajo correctamente, el retono es 1, si se cancelo la ejecucion de la funcion a proposito 0, si hubo un error, el retorno es -1
+ */
+int output_correccionMayusculasCadena (char *cadena);
+
+int output_decodificacionId (LinkedList* pArrayListSeleccion, int idAIdentificar, char *pIdIdentificado);
+
+int output_listarJugadorDecodificado(LinkedList* pArrayListJugador, LinkedList* pArrayListSeleccion, int index);
+
+int output_listarJugadoresDecodificado(LinkedList* pArrayListJugador, LinkedList* pArrayListSeleccion);
+
+int output_listarJugadoresDecodificadoFiltro(LinkedList* pArrayListJugador, LinkedList* pArrayListSeleccion);
+
+int output_obtenerIdMax (int* idMax);
+
+
+#endif /* OUTPUTS_H_ */

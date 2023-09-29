@@ -1,0 +1,11 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\bin\Debug\Tema 13 - Ejercicio 1.exe.config
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\bin\Debug\Tema 13 - Ejercicio 1.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\bin\Debug\Tema 13 - Ejercicio 1.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema_13___Ejercicio_1.Form1.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema_13___Ejercicio_1.Properties.Resources.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.csproj.GenerateResource.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 13 - Ejercicio 1\obj\Debug\Tema 13 - Ejercicio 1.pdb

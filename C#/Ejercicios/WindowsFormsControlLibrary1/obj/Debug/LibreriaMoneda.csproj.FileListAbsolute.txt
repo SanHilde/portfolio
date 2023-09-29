@@ -1,0 +1,6 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\obj\Debug\LibreriaMoneda.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\obj\Debug\LibreriaMoneda.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

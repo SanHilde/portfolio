@@ -1,0 +1,48 @@
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.exe
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.deps.json
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.runtimeconfig.json
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.pdb
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.AssemblyReference.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormLogIn.resources
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormMenuPrincipal.resources
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.GenerateResource.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfoInputs.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfo.cs
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\refint\Interfaz.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.pdb
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.genruntimeconfig.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\ref\Interfaz.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormCreacionPersonaje.resources
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.Properties.Resources.resources
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.CopyComplete
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormInformacionPersonaje.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.deps.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.runtimeconfig.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Interfaz.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Entidades.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\bin\Debug\net6.0-windows\Entidades.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormCreacionPersonaje.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormInformacionPersonaje.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormLogIn.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.FormMenuPrincipal.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.Properties.Resources.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.GenerateResource.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfoInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfo.cs
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.CopyComplete
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\refint\Interfaz.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\Interfaz.genruntimeconfig.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Interfaz\obj\Debug\net6.0-windows\ref\Interfaz.dll

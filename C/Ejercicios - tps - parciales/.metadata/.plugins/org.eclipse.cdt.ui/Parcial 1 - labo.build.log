@@ -1,0 +1,16 @@
+12:17:27 **** Incremental Build of configuration Debug for project Parcial 1 - labo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\abm.o" "..\\src\\abm.c" 
+..\src\abm.c: In function 'mostrarDato':
+..\src\abm.c:143:112: error: 'eLibro' {aka 'struct <anonymous>'} has no member named 'nacionalidad'
+  143 |    printf("%d \t\t\t %d \t\t\t %d \t\t %.2f\t\t%s\n", temaEstructura[indice].codigoLibro,temaEstructura[indice].nacionalidad,
+      |                                                                                                                ^
+..\src\abm.c:144:28: error: 'eLibro' {aka 'struct <anonymous>'} has no member named 'tipo'
+  144 |      temaEstructura[indice].tipo,temaEstructura[indice].precio,temaEstructura[indice].descripcion);
+      |                            ^
+..\src\abm.c:144:86: error: 'eLibro' {aka 'struct <anonymous>'} has no member named 'descripcion'
+  144 |      temaEstructura[indice].tipo,temaEstructura[indice].precio,temaEstructura[indice].descripcion);
+      |                                                                                      ^
+
+12:17:27 Build Failed. 3 errors, 0 warnings. (took 155ms)
+

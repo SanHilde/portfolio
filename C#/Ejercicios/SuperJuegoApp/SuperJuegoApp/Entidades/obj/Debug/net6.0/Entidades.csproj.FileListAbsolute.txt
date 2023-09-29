@@ -1,0 +1,24 @@
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\heide\Desktop\WF\SuperJuegoApp\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.deps.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\bin\Debug\net6.0\Entidades.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\Entidades.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\SuperJuegoApp\SuperJuegoApp\Entidades\obj\Debug\net6.0\ref\Entidades.dll

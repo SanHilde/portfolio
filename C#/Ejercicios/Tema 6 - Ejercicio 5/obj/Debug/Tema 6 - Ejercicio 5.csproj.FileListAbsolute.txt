@@ -1,0 +1,11 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.csproj.SuggestedBindingRedirects.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema_6___Ejercicio_5.Form1.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema_6___Ejercicio_5.Properties.Resources.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.csproj.GenerateResource.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\bin\Debug\Tema 6 - Ejercicio 5.exe.config
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\bin\Debug\Tema 6 - Ejercicio 5.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\bin\Debug\Tema 6 - Ejercicio 5.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 5\obj\Debug\Tema 6 - Ejercicio 5.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Biblioteca de clases Tema 8 - Ejercicio 2/1.0.0": {
+        "runtime": {
+          "Biblioteca de clases Tema 8 - Ejercicio 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca de clases Tema 8 - Ejercicio 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

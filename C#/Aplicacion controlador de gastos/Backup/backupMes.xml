@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaConsumosFijos>
+    <ConsumoFijo>
+      <Id>1</Id>
+      <Monto>2090</Monto>
+      <Nombre>Regalo jaki</Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.464973Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <CantCuotas>11</CantCuotas>
+    </ConsumoFijo>
+    <ConsumoFijo>
+      <Id>2</Id>
+      <Monto>5220</Monto>
+      <Nombre>Filtro PSA </Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.464973Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <CantCuotas>2</CantCuotas>
+    </ConsumoFijo>
+    <ConsumoFijo>
+      <Id>3</Id>
+      <Monto>11180</Monto>
+      <Nombre>Casco</Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.463974Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <CantCuotas>6</CantCuotas>
+    </ConsumoFijo>
+  </ListaConsumosFijos>
+  <ListaConsumosVolatiles>
+    <ConsumoVolatil>
+      <Id>1</Id>
+      <Monto>10500</Monto>
+      <Nombre>Seguro del auto</Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>2</Id>
+      <Monto>15000</Monto>
+      <Nombre>Seguro de moto</Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>3</Id>
+      <Monto>7200</Monto>
+      <Nombre>Cuota gym</Nombre>
+      <Categoria>Hobbies</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>4</Id>
+      <Monto>19800</Monto>
+      <Nombre>Cuota utn</Nombre>
+      <Categoria>Tarjeta De Credito</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>5</Id>
+      <Monto>4000</Monto>
+      <Nombre>Cuota club</Nombre>
+      <Categoria>Hobbies</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>6</Id>
+      <Monto>7000</Monto>
+      <Nombre>Impuestos abuelos</Nombre>
+      <Categoria>Impuestos</Categoria>
+      <Fecha>2023-08-31T19:19:13.465974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>7</Id>
+      <Monto>5750</Monto>
+      <Nombre>Monotributo</Nombre>
+      <Categoria>Impuestos</Categoria>
+      <Fecha>2023-08-31T19:19:13.466974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>8</Id>
+      <Monto>4000</Monto>
+      <Nombre>Contadora</Nombre>
+      <Categoria>Impuestos</Categoria>
+      <Fecha>2023-08-31T19:19:13.466974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>9</Id>
+      <Monto>3200</Monto>
+      <Nombre>Internet</Nombre>
+      <Categoria>Impuestos</Categoria>
+      <Fecha>2023-08-31T19:19:13.466974Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>10</Id>
+      <Monto>900</Monto>
+      <Nombre>Telefono</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-08-31T19:19:13.467974Z</Fecha>
+      <PagoRealizado>true</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+    <ConsumoVolatil>
+      <Id>11</Id>
+      <Monto>9500</Monto>
+      <Nombre>Estacionamiento</Nombre>
+      <Categoria>Casa</Categoria>
+      <Fecha>2023-08-31T19:19:13.467974Z</Fecha>
+      <PagoRealizado>false</PagoRealizado>
+      <Vigencia>true</Vigencia>
+    </ConsumoVolatil>
+  </ListaConsumosVolatiles>
+  <ListaConsumosEsporadicos />
+  <SueldoCobrado>404750</SueldoCobrado>
+  <InicioDeCiclo>1</InicioDeCiclo>
+  <FechaDeInicio>2023-09-01T19:19:13Z</FechaDeInicio>
+  <FinDeCliclo>2023-10-01T03:00:00Z</FinDeCliclo>
+  <AhorroPropuesto>30</AhorroPropuesto>
+  <ObjtivoCumplido>true</ObjtivoCumplido>
+  <Id>5</Id>
+</Mes>

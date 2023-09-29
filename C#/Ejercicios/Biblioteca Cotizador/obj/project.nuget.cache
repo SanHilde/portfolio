@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0MiGQ42gLPr3i0v9tPlz9CQuAEkgCs37Huji+a6ryEsgD9kkE4WBedWsNbaieZWfnV2Z2xUhxs3Sf9H0MKqrQ==",
+  "success": true,
+  "projectFilePath": "F:\\Facu\\Programacion\\1°Año\\Programacion 2\\Ejercicio_clase\\Biblioteca Cotizador\\Biblioteca Cotizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

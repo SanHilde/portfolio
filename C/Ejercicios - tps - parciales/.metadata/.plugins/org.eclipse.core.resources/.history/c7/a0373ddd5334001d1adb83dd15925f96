@@ -1,0 +1,133 @@
+/*
+ ============================================================================
+ Name        : Ejercicio.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+
+#define CANT 5
+#define LIBRE 0
+#define OCUPADO 1
+
+
+int pedirEntero(char mensaje[]);
+int inicializarNumeros (int valorParaIniciar, int array[], int tam);
+void confirmacion (int resultado, char mensajeConfirmacion[], char mensajeError[]);
+int cargarNumeros(int array[], int tam, char mensaje[]);
+
+int main(void)
+{
+
+int opcion;
+int resultado;
+int valorParaIniciar=0;
+int edades[CANT];
+
+	do{
+		setbuf (stdout, NULL);
+
+		opcion=pedirEntero ("1 Inicializar\n"
+				"2 Cargar\n"
+				"3 Mostrar\n"
+				"4 Calcular Promedio\n"
+				"5 Ordenar\n"
+				"Opcion: ");
+
+			switch(opcion){
+				case 1:
+					printf ("\nUsted a seleccionado la opcion %d: inicializar.\n", opcion);
+					resultado = inicializarNumeros (valorParaIniciar, edades, CANT);
+					confirmacion (resultado, "Se inicializo todo correctamente.\n", "Hubo un error en la inicializacion.\n");
+					break;
+				case 2:
+					printf ("\nUsted a seleccionado la opcion %d: cargar.\n", opcion);
+					resultado = cargarNumeros (edades, CANT, "Ingrese el numero  ");
+					confirmacion (resultado, "Se cargo todo correctamente.\n", "Hubo un error en la carga.\n");
+					break;
+				case 3:
+					printf ("\nUsted a seleccionado la opcion %d: mostrar.\n", opcion);
+					break;
+				case 4:
+					printf ("\nUsted a seleccionado la opcion %d: calcular promedio.\n", opcion);
+					break;
+				case 5:
+					printf ("\nUsted a seleccionado la opcion %d: ordenar.\n", opcion);
+					break;
+				default:
+					printf("\nOpcion incorrecta, reingrese opciones.\n");
+						}
+
+		} while( opcion < 5 || opcion>1 );
+
+	return EXIT_SUCCESS;
+}
+
+//input
+int pedirEntero(char mensaje[])
+{
+	int numero;
+
+	printf("%s",mensaje);
+	scanf("%d", &numero);
+
+	return numero;
+}
+
+//input
+int inicializarNumeros (int valorParaIniciar, int array[], int tam)
+{
+	int retorno = 0;
+
+	if(tam > 0)
+	{
+		for(int i = 0; i<tam; i++)
+		{
+			array[i]=valorParaIniciar;
+		}
+
+		retorno = 1;
+	}
+
+	return retorno;
+}
+
+//input
+void confirmacion (int resultado, char mensajeConfirmacion[], char mensajeError[])
+{
+
+	if (resultado == 1)
+	{
+	printf ("%s", mensajeConfirmacion);
+	} else {
+	printf ("%s", mensajeError);
+	}
+
+}
+
+//input
+int cargarNumeros(int array[], int tam, char mensaje[])
+{
+	int retorno = 0;
+
+	if(tam > 0)
+	{
+		for(int i = 0; i<tam; i++)
+		{
+			//printf ("%d ", i+1);
+			array[i]=pedirEntero(mensaje);
+			//printf("Ingrese el numero %d: ",i+1);
+			//scanf("%d",&array[i]);
+		}
+
+		retorno = 1;
+	}
+
+	return retorno;
+}

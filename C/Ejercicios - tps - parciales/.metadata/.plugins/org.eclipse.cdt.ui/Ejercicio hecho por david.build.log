@@ -1,0 +1,7 @@
+16:23:06 **** Incremental Build of configuration Debug for project Ejercicio hecho por david ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio hecho por david.o" "..\\src\\Ejercicio hecho por david.c" 
+gcc -o "Ejercicio hecho por david.exe" "src\\Ejercicio hecho por david.o" 
+
+16:23:07 Build Finished. 0 errors, 0 warnings. (took 415ms)
+

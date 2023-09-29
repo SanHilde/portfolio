@@ -1,0 +1,14 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\bin\Debug\Tema 6 - Ejercicio 3.exe.config
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\bin\Debug\Tema 6 - Ejercicio 3.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\bin\Debug\Tema 6 - Ejercicio 3.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema_6___Ejercicio_3.Properties.Resources.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.csproj.GenerateResource.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema_6___Ejercicio_3.FrmMonedas.resources
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 6 - Ejercicio 3\obj\Debug\Tema 6 - Ejercicio 3.csproj.CopyComplete

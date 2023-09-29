@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/Parcial 2 Laboratorio 1/src/funcionesNecesarias.c" element2="/Parcial 2 Laboratorio 1/src/funcionesNecesarias.h" element3="/Parcial 2 Laboratorio 1/src/inputs.c" element4="/Parcial 2 Laboratorio 1/src/inputs.h" element5="/Parcial 2 Laboratorio 1/src/Jugador.c" element6="/Parcial 2 Laboratorio 1/src/Jugador.h" element7="/Parcial 2 Laboratorio 1/src/Seleccion.c" element8="/Parcial 2 Laboratorio 1/src/Seleccion.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1669147975872"/>
+</session>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Examen Tactica", "Examen Tactica\Examen Tactica.vbproj", "{95686D80-9C7E-4F9B-9E4B-EF9E57C856AE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clases", "Clases\Clases.vbproj", "{F0524064-59A5-4679-A7AA-C9AD34CC57D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95686D80-9C7E-4F9B-9E4B-EF9E57C856AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95686D80-9C7E-4F9B-9E4B-EF9E57C856AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95686D80-9C7E-4F9B-9E4B-EF9E57C856AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95686D80-9C7E-4F9B-9E4B-EF9E57C856AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0524064-59A5-4679-A7AA-C9AD34CC57D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0524064-59A5-4679-A7AA-C9AD34CC57D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0524064-59A5-4679-A7AA-C9AD34CC57D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0524064-59A5-4679-A7AA-C9AD34CC57D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB413C4B-CD25-4BC7-B4C7-D788DDA3235E}
+	EndGlobalSection
+EndGlobal

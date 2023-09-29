@@ -1,0 +1,15 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\bin\Debug\net6.0\Tena 2 - Ejercicio 5.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\bin\Debug\net6.0\Tena 2 - Ejercicio 5.deps.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\bin\Debug\net6.0\Tena 2 - Ejercicio 5.runtimeconfig.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\bin\Debug\net6.0\Tena 2 - Ejercicio 5.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\bin\Debug\net6.0\Tena 2 - Ejercicio 5.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.AssemblyInfoInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.AssemblyInfo.cs
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\refint\Tena 2 - Ejercicio 5.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\Tena 2 - Ejercicio 5.genruntimeconfig.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tena 2 - Ejercicio 5\obj\Debug\net6.0\ref\Tena 2 - Ejercicio 5.dll

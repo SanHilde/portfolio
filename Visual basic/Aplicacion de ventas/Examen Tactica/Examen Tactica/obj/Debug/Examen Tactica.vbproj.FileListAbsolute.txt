@@ -1,0 +1,20 @@
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Examen Tactica.exe.config
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Examen Tactica.exe
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Examen Tactica.pdb
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Examen Tactica.xml
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.vbproj.AssemblyReference.cache
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.FormMenuPrincipal.resources
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.Resources.resources
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.vbproj.GenerateResource.cache
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.vbproj.CoreCompileInputs.cache
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.exe
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.xml
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.pdb
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.FormABM.resources
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Clases.dll
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Clases.pdb
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\bin\Debug\Clases.xml
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen Tactica.vbproj.CopyComplete
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.FormNuevaVenta.resources
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.FormFactura.resources
+F:\Trabajo\Examen Tactica\Examen Tactica\Examen Tactica\obj\Debug\Examen_Tactica.FormReporteMensual.resources

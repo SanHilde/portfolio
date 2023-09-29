@@ -1,0 +1,15 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\bin\Debug\net6.0\Ejercicio_clase.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\bin\Debug\net6.0\Ejercicio_clase.deps.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\bin\Debug\net6.0\Ejercicio_clase.runtimeconfig.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\bin\Debug\net6.0\Ejercicio_clase.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\bin\Debug\net6.0\Ejercicio_clase.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.AssemblyInfoInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.AssemblyInfo.cs
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\refint\Ejercicio_clase.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\Ejercicio_clase.genruntimeconfig.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Ejercicio_clase\obj\Debug\net6.0\ref\Ejercicio_clase.dll

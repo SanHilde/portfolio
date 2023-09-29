@@ -1,0 +1,15 @@
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.csproj.AssemblyReference.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.AssemblyInfoInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.AssemblyInfo.cs
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.csproj.CoreCompileInputs.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\bin\Debug\net6.0\Tema 3 - Ejercicio 4.exe
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\bin\Debug\net6.0\Tema 3 - Ejercicio 4.deps.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\bin\Debug\net6.0\Tema 3 - Ejercicio 4.runtimeconfig.json
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\bin\Debug\net6.0\Tema 3 - Ejercicio 4.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\bin\Debug\net6.0\Tema 3 - Ejercicio 4.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\refint\Tema 3 - Ejercicio 4.dll
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.pdb
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\Tema 3 - Ejercicio 4.genruntimeconfig.cache
+F:\Facu\Programacion\1°Año\Programacion 2\Ejercicio_clase\Tema 3 - Ejercicio 4\obj\Debug\net6.0\ref\Tema 3 - Ejercicio 4.dll

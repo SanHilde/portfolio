@@ -1,0 +1,7 @@
+10:14:37 **** Incremental Build of configuration Debug for project TP 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TP 1.o" "..\\src\\TP 1.c" 
+gcc -o "TP 1.exe" "src\\TP 1.o" "src\\funcionesNecesarias.o" "src\\inputs.o" 
+
+10:14:37 Build Finished. 0 errors, 0 warnings. (took 411ms)
+

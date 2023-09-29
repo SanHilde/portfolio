@@ -1,0 +1,58 @@
+punto 1:
+
+SELECT p.Nombre, p.Precio, p.DIMENSIONES, e.Cantidad, pr.Nombre, pr.Domicilio, pr.Localidad
+FROM `envios` e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor
+ORDER BY p.Nombre ASC;
+
+punto 2:
+SELECT * FROM `proovedores` 
+WHERE Localidad = 'Quilmes';
+
+punto 3:
+SELECT p.Nombre, p.Precio, p.DIMENSIONES, e.Cantidad, pr.Nombre, pr.Domicilio, pr.Localidad
+FROM `envios` e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor
+WHERE e.Cantidad >=200 && e.Cantidad<=300;
+
+punto 4:
+SELECT SUM(Cantidad)
+FROM envios;
+
+punto 5:
+SELECT p.Nombre, p.Precio, p.DIMENSIONES, e.Cantidad, pr.Nombre, pr.Domicilio, pr.Localidad
+FROM `envios` e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor
+LIMIT 3;
+
+punto 6:
+SELECT p.Nombre, pr.Nombre, pr.Domicilio, pr.Localidad
+FROM `envios` e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor;
+
+punto 7:
+SELECT p.Nombre, p.Precio, p.DIMENSIONES, e.Cantidad, pr.Nombre, pr.Domicilio, pr.Localidad, ROUND((e.Cantidad * p.Precio), 2) AS Monto
+FROM envios e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor;
+
+punto 8:
+SELECT * 
+FROM `envios`
+WHERE Numero_Proveedor =102 && Codigo_Producto =1;
+
+punto 9:
+SELECT * 
+FROM `envios` e
+JOIN productos p ON e.Codigo_Producto = p.Codigo_Producto
+JOIN proovedores pr ON e.Numero_Proveedor = pr.Numero_Proveedor
+WHERE pr.Localidad = 'Avellaneda';
+
+punto 10
+SELECT * 
+FROM `proovedores` 
+WHERE Localidad REGEXP '[i]' OR Domicilio REGEXP '[i]';

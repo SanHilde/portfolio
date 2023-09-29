@@ -1,0 +1,7 @@
+07:00:15 **** Rebuild of configuration Debug for project Ejercicio 5-Anexos ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio 5-Anexos.o" "..\\src\\Ejercicio 5-Anexos.c" 
+gcc -o "Ejercicio 5-Anexos.exe" "src\\Ejercicio 5-Anexos.o" 
+
+07:00:15 Build Finished. 0 errors, 0 warnings. (took 484ms)
+
